@@ -1,4 +1,4 @@
-# neural-storyteller
+zd # neural-storyteller
 
 neural-storyteller is a recurrent neural network that generates little stories about images. This repository contains code for generating stories with your own images, as well as instructions for training new models.
 
